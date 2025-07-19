@@ -5,7 +5,7 @@ import './Home.css';
 const Home = () => {
   return (
     <div className="home-container">
-      <h1>Welcome to the Plant Care Guide</h1>
+      <h1>Welcome everyone to the Plant Care Guide App!</h1>
       <p>
         At Plant Care Guide, we believe that nurturing greenery brings peace,
         improves health, and beautifies living spaces. Whether you're a seasoned
